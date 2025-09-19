@@ -1,0 +1,3 @@
+----------------------------------Booking Record------------------------------------------
+BookingID ,CabID ,Customer ,From ,To ,Fare 
+1 ,C001 ,Wajeeha ,Nungambakkam ,Periyar Nagar ,1000.0
